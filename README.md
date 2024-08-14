@@ -1,5 +1,3 @@
-Here's a revised version of your README - Copyright Notice for Repository Videos:
-
 ---
 
 ### COPYRIGHT NOTICE
@@ -32,5 +30,3 @@ For any use of the content beyond review purposes, written permission must be ob
 By accessing this repository, you acknowledge that you have read, understood, and agree to comply with the terms outlined in this notice. You also acknowledge that the content is protected by copyright and is provided exclusively for review purposes.
 
 ---
-
-This version maintains the key legal points while making subtle changes to the language to avoid direct tracing.
